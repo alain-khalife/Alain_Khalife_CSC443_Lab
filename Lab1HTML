@@ -15,6 +15,7 @@
 
 <img id="img1" src="https://pbs.twimg.com/media/EDqJuwwW4AAZfOh?format=jpg&name=120x120" alt="I don't know" />
 
+<div>
 <ul>
 <li class="educationtitle"> <strong> Education </strong> </li>
 <ol> Grade 12
@@ -51,8 +52,12 @@
 <li class="skillsdes"> I am also pretty good at cooking </li>
 </ul>
 </ul>
+</div>
+
 
 <br/> <br/>
+
+<div>
 <p> Below is a table containing a list of my favorite movies </p>
 <table>
 <tr>
@@ -66,14 +71,16 @@
 </tr>
 
 </table>
+</div>
 
 
-
+<div>
 <footer>
   <p>Contact me: 
   <a href="#"> alain.khalife@lau.edu </a></p>
   <p> Phone Number: 76322455 </p>
 </footer>
+</div>
 
 </body>
 
