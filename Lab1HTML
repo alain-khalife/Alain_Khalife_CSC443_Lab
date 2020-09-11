@@ -47,8 +47,8 @@
 
 <li class="skills"> <strong> Skills </strong> </li>
 <ul id="skillsdes">
-<li> I have a pretty good experience with java </li>
-<li> I am also pretty good at cooking </li>
+<li class="skillsdes"> I have a pretty good experience with java </li>
+<li class="skillsdes"> I am also pretty good at cooking </li>
 </ul>
 </ul>
 
