@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<link href="styling.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<h1> Alain Khalife </h1>
+
+<img id="img1" src="https://pbs.twimg.com/media/EDqJuwwW4AAZfOh?format=jpg&name=120x120" alt="I don't know" />
+
+<ul>
+<li> High School </li>
+<ol> Grade 12
+<li> Year 2019 </li>
+<li> I was a very hard year especially since I was in a General Science </li>
+</ol>
+
+<ol> Higher Education
+<li> Year: 2019 </li>
+<li> Description: This was my first year at the university and I majored in computer Science. </li>
+</ol>
+</ul>
+
+
+</body>
+
+</html>
