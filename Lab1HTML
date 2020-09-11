@@ -16,16 +16,16 @@
 <img id="img1" src="https://pbs.twimg.com/media/EDqJuwwW4AAZfOh?format=jpg&name=120x120" alt="I don't know" />
 
 <ul>
-<li> <strong> High School </strong> </li>
+<li class="educationtitle"> <strong> Education </strong> </li>
 <ol> Grade 12
 <li> Year 2019 </li>
-<li> I was a very hard year especially since I was in a General Science </li>
+<li class="description"> I was a very hard year especially since I was in a General Science </li>
 </ol>
 <br/>
 
 <ol> Higher Education
 <li> Year: 2019 </li>
-<li> Description: This was my first year at the university and I majored in computer Science. </li>
+<li class="description"> This was my first year at the university and I majored in computer Science. </li>
 </ol>
 
 <br/>
@@ -38,10 +38,10 @@
 <br/> <br/>
 
 <li class="workexp" > <strong> Work Experience </strong> </li>
-<ul id="workexpe">
+<ol type="i" id="workexpe">
 <li> I currently am studying, I recently worked in a computer center installing and fixing programs but I never really had a lot of work. </li>
 <li> I also have experience with JAVA </li>
-</ul>
+</ol>
 
 <br/> <br/>
 
