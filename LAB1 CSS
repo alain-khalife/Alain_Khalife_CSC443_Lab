@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: right;
+}
+
+#img1 {
+	float: right;
+}
+
+table td {
+	border: 2px solid black;
+}
+
+.educationtitle {
+	font-size: 20px;
+}
