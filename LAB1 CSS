@@ -16,4 +16,10 @@ table td {
 
 .educationtitle {
 	font-size: 20px;
+	color: gray;
 }
+
+.description {
+	color: red;
+}
+
