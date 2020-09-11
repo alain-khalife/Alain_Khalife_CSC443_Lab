@@ -26,7 +26,7 @@ table td {
 }
 
 footer {
-	background-color: yellow;
+	background-color: gray;
 }
 
 a{
