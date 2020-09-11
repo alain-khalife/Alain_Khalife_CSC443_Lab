@@ -25,3 +25,19 @@ table td {
 	color: red;
 }
 
+footer {
+	background-color: yellow;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: green;
+}
+
+.skillsdes{
+	font-family: "Lucida Console", Courier, monospace;
+}
+
