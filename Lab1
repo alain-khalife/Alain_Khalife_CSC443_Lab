@@ -6,7 +6,9 @@
 
 <body>
 
-<h1> Alain Khalife </h1>
+<h1> An Average LAU Student </h1>
+
+<h2> Alain Khalife </h2>
 
 <img id="img1" src="https://pbs.twimg.com/media/EDqJuwwW4AAZfOh?format=jpg&name=120x120" alt="I don't know" />
 
@@ -16,11 +18,27 @@
 <li> Year 2019 </li>
 <li> I was a very hard year especially since I was in a General Science </li>
 </ol>
+<br/>
 
 <ol> Higher Education
 <li> Year: 2019 </li>
 <li> Description: This was my first year at the university and I majored in computer Science. </li>
 </ol>
+
+<br/>
+
+<ol> Higher Education
+<li> Year: 2020 </li>
+<li> Description: This is my second year majoring in computer science. And things are getting pretty heavy </li>
+</ol>
+
+<br/> <br/>
+
+<li class="workexp" > Work Experience </li>
+<ul id="workexpe">
+<li> I currently am studying, I recently worked in a computer center installing and fixing programs but I never really had a lot of work. </li>
+<li> I also have experience with JAVA </li>
+</ul>
 </ul>
 
 
