@@ -1,6 +1,9 @@
 <html>
 
 <head>
+<title> Alain Khalife Blog </title>
+<link rel = "icon" href = "https://www.flaticon.com/svg/static/icons/svg/202/202404.svg" type = "image/x-icon">
+
 <link href="styling.css" type="text/css" rel="stylesheet" />
 </head>
 
