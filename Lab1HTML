@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<link href="styling.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<h1> An Average LAU Student </h1>
+
+<h2> Alain Khalife </h2>
+
+<img id="img1" src="https://pbs.twimg.com/media/EDqJuwwW4AAZfOh?format=jpg&name=120x120" alt="I don't know" />
+
+<ul>
+<li> <strong> High School </strong> </li>
+<ol> Grade 12
+<li> Year 2019 </li>
+<li> I was a very hard year especially since I was in a General Science </li>
+</ol>
+<br/>
+
+<ol> Higher Education
+<li> Year: 2019 </li>
+<li> Description: This was my first year at the university and I majored in computer Science. </li>
+</ol>
+
+<br/>
+
+<ol> Higher Education
+<li> Year: 2020 </li>
+<li> Description: This is my second year majoring in computer science. And things are getting pretty heavy </li>
+</ol>
+
+<br/> <br/>
+
+<li class="workexp" > <strong> Work Experience </strong> </li>
+<ul id="workexpe">
+<li> I currently am studying, I recently worked in a computer center installing and fixing programs but I never really had a lot of work. </li>
+<li> I also have experience with JAVA </li>
+</ul>
+
+<br/> <br/>
+
+<li class="skills"> <strong> Skills </strong> </li>
+<ul id="skillsdes">
+<li> I have a pretty good experience with java </li>
+<li> I am also pretty good at cooking </li>
+</ul>
+</ul>
+
+<br/> <br/>
+<p> Below is a table containing a list of my favorite movies </p>
+<table>
+<tr>
+<td> John Wick <br/> <a href="https://www.imdb.com/title/tt2911666/" > https://www.imdb.com/title/tt2911666/ </a> </td>
+<td> An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him. </td>
+</tr>
+
+<tr>
+<td> IT <br/> <a href="https://www.imdb.com/title/tt1396484/?ref_=nv_sr_srsg_6" > https://www.imdb.com/title/tt1396484/?ref_=nv_sr_srsg_6 </a> </td>
+<td> In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town. </td>
+</tr>
+
+</table>
+
+
+
+<footer>
+  <p>Contact me: 
+  <a href="#"> alain.khalife@lau.edu </a></p>
+  <p> Phone Number: 76322455 </p>
+</footer>
+
+</body>
+
+</html>
